@@ -1,0 +1,5 @@
+{
+  "name": "貝戈戈會計系統VERSION1",
+  "description": "A comprehensive system to track 12-month attendance, calculate monthly meal budgets, manage surplus bonus pools, and distribute year-end rewards based on attendance criteria.",
+  "requestFramePermissions": []
+}
