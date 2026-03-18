@@ -8,7 +8,7 @@ export const MEMBERS: Member[] = [
   { id: '5', name: '杏花', birthdayMonth: 7, avatarUrl: 'https://lh3.googleusercontent.com/d/1f3t4Jkt53QtXKMiDDFTJ8HpqKz6R17Sl' },
   { id: '6', name: '君明', birthdayMonth: 9, avatarUrl: 'https://lh3.googleusercontent.com/d/1mPDtzPiyrmGAjos5d5CEsMd_K0tZe82M' },
   { id: '7', name: '家麗', birthdayMonth: 9, avatarUrl: 'https://lh3.googleusercontent.com/d/1raHLt1Po-jNg8ycdRxiNsWb-mpuo9kF4' },
-  { id: '8', name: '雅儀', birthdayMonth: 6, avatarUrl: 'https://lh3.googleusercontent.com/d/1bYcm-dEetiYr1cRjk4WU6CmmaSpwxo9MdEetiYr1cRjk4WU6CmmaSpwxo9M' },
+  { id: '8', name: '雅儀', birthdayMonth: 6, avatarUrl: 'https://lh3.googleusercontent.com/d/1bYcm-dEetiYr1cRjk4WU6CmmaSpwxo9M' },
   { id: '9', name: '煒珊', birthdayMonth: 4, avatarUrl: 'https://lh3.googleusercontent.com/d/1eDwmu8H5x3HgaRYdnkiOA4fuYjwkc_2y' },
   { id: '10', name: '肇基', birthdayMonth: 2, avatarUrl: 'https://lh3.googleusercontent.com/d/1VKESzNehKzZu9xQ4dtW3LBX2wdPewLw5' },
   { id: '11', name: '青雲', birthdayMonth: 11, avatarUrl: 'https://lh3.googleusercontent.com/d/19XzzAnHfIYlKvAsff5NyGm65Cz3cQAh-' },
